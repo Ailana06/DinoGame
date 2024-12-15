@@ -316,4 +316,3 @@ while run_game():
     usr_y = display_height - usr_height - 100
 pygame.quit()
 quit()
-
